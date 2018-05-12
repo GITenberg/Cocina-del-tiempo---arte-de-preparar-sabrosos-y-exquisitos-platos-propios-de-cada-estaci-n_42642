@@ -1,0 +1,33 @@
+_repo: Cocina-del-tiempo---arte-de-preparar-sabrosos-y-exquisitos-platos-propios-de-cada-estaci-n_42642
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42642-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Ruiz Contreras, Luis
+    aliases:
+    - Señora Martín
+    - Contreras, Luis Ruiz
+    - Senora Martin
+    birthdate: 1863
+    deathdate: 1953
+    gutenberg_agent_id: '41791'
+    url: http://www.gutenberg.org/2009/agents/41791
+    wikipedia: http://es.wikipedia.org/wiki/Luis_Ruiz_Contreras
+description: ''
+gutenberg_issued: '2013-05-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42642'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cookbooks'
+- !lcc 'TX'
+- !lcsh 'Seasonal cooking'
+title: Cocina del tiempo, ó arte de preparar sabrosos y exquisitos platos propios
+  de cada estación
+url: http://www.gutenberg.org/ebooks/42642
