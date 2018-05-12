@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41791
     wikipedia: http://es.wikipedia.org/wiki/Luis_Ruiz_Contreras
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42642#Cocina-del-tiempo---arte-de-preparar-sabrosos-y-exquisitos-platos-propios-de-cada-estaci-n
 gutenberg_issued: '2013-05-04'
 gutenberg_type: Text
 identifiers:
